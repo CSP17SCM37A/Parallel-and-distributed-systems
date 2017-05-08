@@ -1,0 +1,30 @@
+Elapsed time for writing is(Seconds) 0.01425225
+
+Elapsed time for rank 1 Reading  is(Seconds) 0.010774124
+
+overall time (Seconds) 0.114399124
+
+Bandwidth id (MB/sec) 8
+Elapsed time for writing is(Seconds) 0.01425225
+
+Elapsed time for rank 0 Reading  is(Seconds) 0.010674124
+
+overall time (Seconds) 0.128399124
+
+Bandwidth id (MB/sec) 7
+Elapsed time for writing is(Seconds) 0.01425225
+
+Elapsed time for rank 2 Reading  is(Seconds) 0.010774124
+
+overall time (Seconds) 0.118399124
+
+Bandwidth id (MB/sec) 8
+Elapsed time for writing is(Seconds) 0.01425225
+
+Elapsed time for rank 3 Reading  is(Seconds) 0.010874124
+
+overall time (Seconds) 0.124399124
+
+Bandwidth id (MB/sec) 7
+
+

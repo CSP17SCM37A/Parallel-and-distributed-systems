@@ -1,0 +1,20 @@
+In this assignment,sequential code is provided and I've written  CUDA-C version of a Matrix normalization algorithm.I debug the sequential code and cuda on jarvis.
+Below are the steps to rum both sequential code and cuda version code.
+ 
+Sequential code:
+1.Login to jarvis.
+2.Now,Login to intearctive queue: qlogin -q interactive.q
+
+
+3.compile Serial code: gcc matrixNorm.c -o Test
+4.Run the code by:./Test 2000 2
+
+cuda version code:
+1.Login to jarvis.
+2.Now,Login to intearctive queue: qlogin -q interactive.q
+
+
+3.compile Serial code: nvcc normcuda.cu -o abcde.out
+4.Run with : ./abcde.out 2000 1 2000 2(Enter matrix size,number of blocks,number of threads in each thread ,randon seed)
+
+  
